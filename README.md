@@ -28,6 +28,11 @@
     ```bash
     git clone https://github.com/mbulchak/nothing-landing.git
     ```
+  - Navigate to the project directory
+
+    ```bash
+    cd nothing-landing
+    ```
   - Install NPM packages
 
     ```bash
